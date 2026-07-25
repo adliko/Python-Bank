@@ -1,0 +1,17 @@
+__pycache__/
+.idea/
+*.pyc
+users.
+users.json
+script.py
+script1.py
+script2.py
+script3.py
+script4.py
+script5.py
+script7.py
+script8.py
+
+users.txt
+user.json
+data.json
